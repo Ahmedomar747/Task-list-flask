@@ -3,7 +3,7 @@ A web application implemented using flask(a python web framework) that adds, edi
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install PyGame.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Flask.
 
 ```bash
 pip install flask
